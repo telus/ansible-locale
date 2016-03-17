@@ -1,0 +1,3 @@
+---
+- name: refresh locales | locale
+  command: /usr/sbin/dpkg-reconfigure locales

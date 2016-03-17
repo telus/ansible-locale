@@ -1,0 +1,7 @@
+---
+- name: add locales
+  locale_gen:
+    name: '{{ item }}'
+    state: present
+  with_items: '{{ locale_locales }}'
+  notify: refresh locales | locale

@@ -1,0 +1,17 @@
+---
+dependencies: []
+galaxy_info:
+  author: "Steven Harradine"
+  company: "TELUS digital"
+  description: "Enables locales and reload into the system"
+  license: ISC
+  platforms:
+    - name: Ubuntu
+      versions:
+      - lucid
+      - precise
+      - trusty
+      - utopic
+      - vivid
+  categories:
+    - system
