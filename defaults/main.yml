@@ -1,4 +1,4 @@
 ---
 locale_locales:
-  - en_CA.utf8
-  - fr_CA.utf8
+  - en_CA.UTF-8
+  - fr_CA.UTF-8
