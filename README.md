@@ -1,5 +1,5 @@
 # ansible-locale
-[Ansible](http://www.ansible.com/) role to enable locales and reload into the system
+[Ansible](http://www.ansible.com/) role to enable locales and reload into the system.
 
 [![licence](https://img.shields.io/badge/licence-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Build Status](https://travis-ci.org/stevenharradine/ansible-locale.png)](https://travis-ci.org/stevenharradine/ansible-locale)
