@@ -5,3 +5,10 @@
     state: present
   with_items: '{{ locale_locales }}'
   notify: refresh locales | locale
+
+- name: Install Language Packs | apt
+  apt:
+    state: latest
+    pkg: "language-pack-{{ item }}"
+  with_items:
+    - "{{ locale_language_packs }}"

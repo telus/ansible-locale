@@ -2,3 +2,4 @@
 locale_locales:
   - en_CA.UTF-8
   - fr_CA.UTF-8
+locale_language_packs: []

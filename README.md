@@ -7,7 +7,7 @@
 Tunables
 --------
 * `locale_locales` (list of strings) - What locales should be added
-
+* `locale_language_packs` (list of strings) - What Ubuntu language packages do you require?
 
 Example Playbook
 ----------------
@@ -21,3 +21,4 @@ Example Playbook
 Contributors
 ------------
 * Steven Harradine
+* [Aaron Pederson](https://aaronpederson.github.io) | [e-mail](mailto:aaronpederson@gmail.com) | [Twitter](https://twitter.com/GunFuSamurai)
